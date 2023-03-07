@@ -2,6 +2,12 @@
         <h1 align="centar"> Hi there 👋, i'm Klee Collage </h1>   
         <h3 align="center"> Passionate programmer with basic knowledge in programming languages such as Java and Python. Recent graduate of software engineering and            computer systems and looking for opportunities an internship or job to put my skills into practice and acquire new knowledge. I have problem solving and                teamwork skills, and I am always willing to learn and improve my skills. </h3> 
 </div>
+<div id="badges" align="center">
+        <img src="https://img.shields.io/github/followers/KleeCollage?style=social" alt="HTML" with="40" height="40"/>
+        <img src="https://img.shields.io/github/stars/KleeCollage?style=social" alt="HTML" with="40" height="40"/>        
+       
+        
+</div>
 
 ---
 
@@ -15,8 +21,6 @@
     - 🤔 I’m looking for help with ...
     - 💬 Ask me about ...
     - 📫 How to reach me: ...
-    
-    - ⚡ Fun fact: ... 
 --> 
 
 <div align="left">
@@ -31,7 +35,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;          
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;    
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats);
     </div>
     
 ---
@@ -40,8 +45,11 @@
         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
 ![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&hide_progress=true)](https://github.com/KleeCollage/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage)](https://github.com/KleeCollage/github-readme-stats)
+
+        
+---
+        
+
         
         
 <!--
