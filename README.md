@@ -2,14 +2,12 @@
         <h1 align="centar"> Hi there 👋, i'm Klee Collage </h1>   
         <h3 align="center"> Passionate programmer with basic knowledge in programming languages such as Java and Python. Recent graduate of software engineering and            computer systems and looking for opportunities an internship or job to put my skills into practice and acquire new knowledge. I have problem solving and                teamwork skills, and I am always willing to learn and improve my skills. </h3> 
 </div>
-
-    ---
-
-    ### 😄 About Me:
+---
+### 😄 About Me:
     
-    - 🔭 I’m currently working on personal proyects
-    - 🌱 I’m currently learning a third lenguage and more technologies
-    - 👯 I’m looking to collaborate on developers teams...
+- 🔭 I’m currently working on personal proyects
+- 🌱 I’m currently learning a third lenguage and more technologies
+- 👯 I’m looking to collaborate on developers teams...
     
 <!--
     - 🤔 I’m looking for help with ...
