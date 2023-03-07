@@ -1,8 +1,6 @@
 <div id="header" align="center">
-
-### Hi there 👋
-    <div>
-        <h1 align="center"> ### Hi there 👋, i'm Klee Collage </h1>
+    <div id="header" align="center">
+        <h1 align="centar"> ### Hi there 👋, i'm Klee Collage </h1>
         
         <h3 align="center"> Passionate programmer with basic knowledge in programming languages such as
             Java and Python.
@@ -10,7 +8,6 @@
             an internship or job to put my skills into practice and acquire new knowledge.
             I have problem solving and teamwork skills, and I am always willing to
             learn and improve my skills.</h3>
-
     </div>
 
     ---
