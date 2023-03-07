@@ -1,10 +1,8 @@
 <div id="header" align="center">
 
 ### Hi there 👋
-
-
     
-        <h1 align="centar"> ### Hi there 👋, i'm Klee Collage </h1>
+        <h1 align="center"> ### Hi there 👋, i'm Klee Collage </h1>
         
         <h3 align="center"> Passionate programmer with basic knowledge in programming languages such as
             Java and Python.
