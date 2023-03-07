@@ -36,6 +36,9 @@
     
 ---
         
+        ### ⚡ My stats:
+        
+        [[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
         
 <!--
 **kleecollage/kleecollage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
