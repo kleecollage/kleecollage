@@ -31,11 +31,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
-        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;          
     </div>
-</div>
     
-
+---
+        
+        
 <!--
 **kleecollage/kleecollage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
