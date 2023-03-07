@@ -1,6 +1,8 @@
+<div id="header" align="center">
+
 ### Hi there 👋
 
-<div id="header" align="center">
+
     
         <h1 align="centar"> ### Hi there 👋, i'm Klee Collage </h1>
         
