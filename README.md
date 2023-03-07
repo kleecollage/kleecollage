@@ -40,8 +40,8 @@
         
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
 ![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&hide_progress=true)](https://github.com/KleeCollage/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage)](https://github.com/KleeCollage/github-readme-stats)
         
         
 <!--
