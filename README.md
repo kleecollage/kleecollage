@@ -50,6 +50,7 @@
 ---
 <h3>Tools</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
@@ -68,7 +69,6 @@
 ---
         
 ### ⚡ My stats:
-        
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
 ![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=radical)
 
@@ -81,7 +81,6 @@
 
         
 ###  What I am interested in learning at some point
-        
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
