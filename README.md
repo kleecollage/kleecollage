@@ -77,6 +77,7 @@
 
 ### What I am currently learning / improving on
 <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>&nbsp;
 
         
 ###  What I am interested in learning at some point
