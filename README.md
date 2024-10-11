@@ -80,17 +80,21 @@
 ---
 
 ### What I am currently learning / improving on
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
 
         
 ###  What I am interested in learning at some point
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
-                                               
-                                                                                            
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="ruby" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
+
+
 <!--
 **kleecollage/kleecollage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
