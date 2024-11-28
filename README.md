@@ -1,6 +1,6 @@
 <div id="header" align="center">
         <h1 align="centar"> Hi there 👋, i'm Klee Collage </h1>   
-        <h3 align="center"> I'm Full stack developer with passion for new trends in technology. Specialized in mobile devices and studying high-speed processing in coroutines. I save every penny I can with requests on servers, I am against intrusive advertising and in favor of data privacy.</h3> 
+        <h3 align="center"> I'm Full stack developer with passion for new trends in technology. Specialized in mobile devices and studying high-speed processing in coroutines. I save every penny I can with requests on servers, I am against intrusive advertising and in favor of data privacy. I am looking to specialize in data science in the near future as well.</h3> 
 </div>
 <div id="badges" align="center">
         <img src="https://img.shields.io/github/followers/KleeCollage?style=social" alt="HTML" with="40" height="40"/>
