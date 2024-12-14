@@ -35,24 +35,24 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MicrosoftSQLserver" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="netCore" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typeScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>&nbsp;
-        
-        
             
 ---
 <h3>Tools</h3>
@@ -90,20 +90,18 @@
 ---
 
 ### What I am currently learning / improving on
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>&nbsp;
         
 ###  What I am interested in learning at some point
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="sacala" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-
-
 
 <!--
 **kleecollage/kleecollage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
