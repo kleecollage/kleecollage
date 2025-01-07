@@ -116,6 +116,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" alt="sacala" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>&nbsp;
 
 <!--
 **kleecollage/kleecollage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
