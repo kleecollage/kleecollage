@@ -99,23 +99,20 @@ ___
 
 ***
 
-<div>
-<h3>ORM (Object-Relational Mapping): </h3>
+<h3>ORM (Object-Relational Mapping): </h3>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>&nbsp;
 
-
-<h3>APIs and Communication: </h3>
+<h3>APIs and Communication: </h3>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>&nbsp;
 
----
-<h3>Execution Environments and Platforms</h3>
-<div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotNet" width="40" height="40"/>&nbsp;
-</div>
----
+<h3>Execution Environments and Platforms</h3>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotNet" width="40" height="40"/>&nbsp;
+
+***
+
 <h3>Development Tools</h3>
 <div>
         <h4>Operating Systems and Containers</h4>
@@ -163,32 +160,38 @@ ___
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>&nbsp;
         </div>
 </div>
-        ---
-        <h3>Deployment and Cloud Platforms</h3>
-        <div>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg" alt="railway" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
-        </div>
-        ---
-        <h3>Servers and Proxy</h3>
-        <div>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp;
-        </div>
-        ---
-        <h3>CMS (Content Management Systems)</h3>
-        <div>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
-        </div>
-        ---
-        <h3>UI/UX Libraries</h3>
-        <div>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="antDesign" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" alt="angularMaterial" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-        </div>        
-    <div>
+
+---
+
+<h3>Deployment and Cloud Platforms</h3>
+<div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg" alt="railway" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<h3>Servers and Proxy</h3>
+<div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp;
+</div>
+
+---
+<h3>CMS (Content Management Systems)</h3>
+<div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
+</div>
+
+---
+<h3>UI/UX Libraries</h3>
+<div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="antDesign" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" alt="angularMaterial" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+</div>        
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </div>
