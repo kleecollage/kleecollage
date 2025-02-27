@@ -154,12 +154,12 @@ ___
                 <h4>Testing</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>&nbsp;
             </td>
-        </tr>
-        <tr>
             <td>
                 <h4>Build Tools</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>&nbsp;
             </td>
+        </tr>
+        <tr>
             <td>
                 <h4>Package Managers</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
@@ -167,8 +167,6 @@ ___
                 <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" alt="homebrew" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>&nbsp;
             </td>
-        </tr>
-        <tr>
             <td>
                 <h4>Database Tools</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/>&nbsp;
@@ -182,6 +180,8 @@ ___
     </table>
 </div>
 
+***
+
 <div align="center">
     <h3>Deployment and Cloud Platforms</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg" alt="railway" width="40" height="40"/>&nbsp;
@@ -189,8 +189,6 @@ ___
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
 </div>
-
----
 
 <div align="center">
     <table align="center">
