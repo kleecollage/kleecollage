@@ -58,18 +58,7 @@
 
 ---
 
-  </div>
-  <div style="margin: 10px;">
-    <div align="center">
-
-    </div>
-  </div>
-</div>
----
-___
-***
 <div align="center">
-        ---
         <h3>Frameworks and Libraries</h3>
         <div>
                 <h4>Backend</h4>
