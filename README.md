@@ -23,9 +23,7 @@
     - 📫 How to reach me: ...
 --> 
 
----
-
-<h2 aligh="center">"Success is not a destination, it's a journey, enjoy it."</h2>
+<h2 align="center">"Success is not a destination, it's a journey, enjoy it."</h2>
 <table align="center">
   <tr>
     <td>
@@ -57,8 +55,6 @@
     </td>
   </tr>
 </table>
-
-___
 
 <div align="center">
   <h3>Frameworks and Libraries</h3>
@@ -214,16 +210,11 @@ ___
     
 ***
    
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-    
-***
 
 ### ⚡ My stats:
-<div align="center">
-        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
-        ![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
+![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=radical)
 
         
 ---
@@ -251,7 +242,6 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>&nbsp;
 
-</div>
 <!--
 **kleecollage/kleecollage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
