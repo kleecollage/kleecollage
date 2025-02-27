@@ -98,8 +98,9 @@ ___
 </div>
 
 ***
-<div>
-        <h3>ORM (Object-Relational Mapping): </h3> <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/> 
+<div align="left">
+        <h3>ORM (Object-Relational Mapping): </h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
 </div>
 <div>
