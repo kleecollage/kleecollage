@@ -99,18 +99,17 @@ ___
 
 ***
 <div>
-        <h3>ORM (Object-Relational Mapping): </h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/> |
+        <h3>ORM (Object-Relational Mapping): </h3> <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
 </div>
 <div>
         <h3>APIs and Communication: </h3>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp; |
+        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>&nbsp;
 </div>
 <div>
         <h3>Execution Environments and Platforms: </h3>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp; |
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp; 
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotNet" width="40" height="40"/>&nbsp;
 </div>
 
