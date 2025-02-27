@@ -122,8 +122,8 @@ ___
 
 ***
 
-<h3>Development Tools</h3>
 <div align="center">
+    <h3>Development Tools</h3>
     <table>
         <tr>
             <td>
@@ -180,40 +180,43 @@ ___
 
 ---
 
-<h3>Deployment and Cloud Platforms</h3>
-<div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg" alt="railway" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
+<div align="center">
+    <h3>Deployment and Cloud Platforms</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg" alt="railway" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-<h3>Servers and Proxy</h3>
-<div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp;
-</div>
-
----
-<h3>CMS (Content Management Systems)</h3>
-<div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
-</div>
-
----
-<h3>UI/UX Libraries</h3>
-<div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="antDesign" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" alt="angularMaterial" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-</div>        
-<div>
+<div align="center">
+    <table align="center">
+        <tr>
+            <td>
+                <h3>Servers and Proxy</h3>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>&nbsp;
+            </td>
+            <td>
+                <h3>CMS (Content Management Systems)</h3>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>&nbsp;
+            </td>
+            <td>
+                <h3>UI/UX Libraries</h3>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" alt="antDesign" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/angularmaterial/angularmaterial-original.svg" alt="angularMaterial" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+            </td>
+        </tr>
+    </table>
+    
+***
+   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     
----
+***
         
 ### ⚡ My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
