@@ -72,7 +72,7 @@ ___
       <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>&nbsp;
     </div>
-    <table align="center">
+    <table align="center" border="0" >
       <tr>
         <td>
           <h4>Frontend</h4>
@@ -100,17 +100,15 @@ ___
 ***
 
 <div>
-<h3>ORM (Object-Relational Mapping)</h3>
+<h3>ORM (Object-Relational Mapping): </h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>&nbsp;
-        
-***
 
-<h3>APIs and Communication</h3>
-<div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>&nbsp;
-</div>
+
+<h3>APIs and Communication: </h3>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>&nbsp;
+
 ---
 <h3>Execution Environments and Platforms</h3>
 <div>
