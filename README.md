@@ -72,37 +72,37 @@ ___
       <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>&nbsp;
     </div>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <div>
-        <h4>Frontend</h4>
-        <div>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
-          <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/>&nbsp;
-        </div>
-      </div>
-      <div>
-        <h4>Mobile</h4>
-        <div>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack" width="40" height="40"/>&nbsp;        
-          <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>&nbsp;   
-        </div>
-      </div>
-    </div>
+    <table align="center">
+      <tr>
+        <td>
+          <h4>Frontend</h4>
+          <div>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="40" height="40"/>&nbsp;
+          </div>
+        </td>
+        <td>
+          <h4>Mobile</h4>
+          <div>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="40" height="40"/>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack" width="40" height="40"/>&nbsp;        
+            <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>&nbsp;   
+          </div>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
 
-___
+***
 
 <div>
 <h3>ORM (Object-Relational Mapping)</h3>
-<div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>&nbsp;
-</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>&nbsp;
         
 ***
 
