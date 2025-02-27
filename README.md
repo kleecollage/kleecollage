@@ -134,6 +134,19 @@ ___
                 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
             </td>
             <td>
+                <h4>IDEs and Code Editors</h4>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="androidStudio" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>&nbsp;
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <td>
                 <h4>Version Control</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
             </td>
@@ -154,15 +167,6 @@ ___
                 <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" alt="homebrew" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>&nbsp;
             </td>
-            <td>
-                <h4>IDEs and Code Editors</h4>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="androidStudio" width="40" height="40"/>&nbsp;
-                <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>&nbsp;
-            </td>
         </tr>
         <tr>
             <td>
@@ -177,8 +181,6 @@ ___
         </tr>
     </table>
 </div>
-
----
 
 <div align="center">
     <h3>Deployment and Cloud Platforms</h3>
