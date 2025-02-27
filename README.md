@@ -106,8 +106,6 @@ ___
               <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/> 
               <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="40" height="40"/>
             </td>
-        </tr>
-        <tr>
             <td>
                 <h3>APIs and Communication: </h3>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp; 
@@ -125,51 +123,59 @@ ___
 ***
 
 <h3>Development Tools</h3>
-<div>
-        <h4>Operating Systems and Containers</h4>
-        <div>
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <h4>Operating Systems and Containers</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
-        </div>
-        <h4>Version Control</h4>
-        <div>
+            </td>
+            <td>
+                <h4>Version Control</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
-        </div>
-        <h4>Testing</h4>
-        <div>
+            </td>
+            <td>
+                <h4>Testing</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>&nbsp;
-        </div>
-        <h4>Build Tools</h4>
-        <div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h4>Build Tools</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>&nbsp;
-        </div>
-        <h4>Package Managers</h4>
-        <div>
+            </td>
+            <td>
+                <h4>Package Managers</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" alt="homebrew" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/>&nbsp;
-        </div>
-        <h4>IDEs and Code Editors</h4>
-        <div>
+            </td>
+            <td>
+                <h4>IDEs and Code Editors</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VScode" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="androidStudio" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40"/>&nbsp;
-        </div>
-        <h4>Database Tools</h4>
-        <div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h4>Database Tools</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="ads" width="40" height="40"/>&nbsp;
-        </div>
-        <h4>API Testing Tools</h4>
-        <div>
+            </td>
+            <td>
+                <h4>API Testing Tools</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>&nbsp;
-        </div>
+            </td>
+        </tr>
+    </table>
 </div>
 
 ---
