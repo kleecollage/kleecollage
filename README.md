@@ -145,10 +145,15 @@
             <td>
                 <h4>Version Control</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>&nbsp;
             </td>
             <td>
                 <h4>Testing</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>&nbsp;
             </td>
             <td>
                 <h4>Build Tools</h4>
@@ -219,8 +224,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;
 
         
