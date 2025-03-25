@@ -158,6 +158,7 @@
             <td>
                 <h4>Build Tools</h4>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>&nbsp;
             </td>
         </tr>
         <tr>
