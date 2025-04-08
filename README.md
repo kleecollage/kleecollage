@@ -149,6 +149,7 @@
                 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="40" height="40"/>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>&nbsp;
             </td>
             <td>
