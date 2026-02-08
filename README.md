@@ -230,7 +230,7 @@
 
 ### ⚡ My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
-# [![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=tokyonight)]
+# ![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=tokyonight)
 
         
 ---
