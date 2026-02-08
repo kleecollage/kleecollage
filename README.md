@@ -17,7 +17,7 @@
 - 👯 I'm looking to be part of large development companies
 - 🤔 I’m seeking feedback and subject tests for my apps
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage)]
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage)
 <h2 align="center">"Success is not a destination, it's a journey, enjoy it."</h2>
 <table align="center">
   <tr>
@@ -230,7 +230,7 @@
 
 ### ⚡ My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
-[![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=tokyonight)]
+# [![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=tokyonight)]
 
         
 ---
