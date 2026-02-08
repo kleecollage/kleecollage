@@ -17,9 +17,7 @@
 - 👯 I'm looking to be part of large development companies
 - 🤔 I’m seeking feedback and subject tests for my apps
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleeCollage)]
 <h2 align="center">"Success is not a destination, it's a journey, enjoy it."</h2>
 <table align="center">
   <tr>
@@ -112,6 +110,7 @@
                 <h3>APIs and Communication: </h3>&nbsp;
                 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp; 
                 <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/>&nbsp;
             </td>
             <td>
                 <h3>Execution Environments and Platforms: </h3>&nbsp;
@@ -231,8 +230,7 @@
 
 ### ⚡ My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KleeCollage&theme=tokyonight)](https://git.io/streak-stats)
-# ![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=radical)
-[![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![KleeCollage GitHub stats](https://github-readme-stats.vercel.app/api?username=KleeCollage&show_icons=true&theme=tokyonight)]
 
         
 ---
@@ -254,7 +252,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
 
 
 <!--
